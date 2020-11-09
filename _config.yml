@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Massimiliano Rubino"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profilo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "Milan , MI"
   email            :
