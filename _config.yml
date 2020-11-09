@@ -96,7 +96,7 @@ author:
   name             : "Massimiliano Rubino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
-  location         : "Milan, MI"
+  location         : "Milan , MI"
   email            :
   links:
     - label: "Email"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/Max-Rubino/Max-rubino.github.io"
+       url: "https://github.com/Max-Rubino/Max-rubino.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -279,10 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
- # _pages
- - scope:
-     path: ""
-     type: pages
-   values:
-     layout: single
-     author_profile: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
