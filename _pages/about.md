@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: "About"
 permalink: /about/
 header:
@@ -11,7 +12,7 @@ etc,stc
 
 
 
-Massimiliano Rubino
+# Massimiliano Rubino
 ============
 
 -------------------     ----------------------------
@@ -20,7 +21,7 @@ MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
-Education
+## Education
 ---------
 
 2010-2014 (expected)
@@ -35,7 +36,7 @@ Education
 
     *Minor: Awesomeology*
 
-Experience
+## Experience
 ----------
 
 **Your Most Recent Work Experience:**
@@ -53,7 +54,7 @@ links:
 
 Also with a short description.
 
-Technical Experience
+## Technical Experience
 --------------------
 
 My Cool Side Project
