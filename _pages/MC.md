@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning posts by tags"
+title: "Projects  posts by tags"
 layout: archive
 permalink: /machine-learning/
 author_profile: true
