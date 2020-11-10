@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: "About"
 permalink: /about/
 header:
@@ -12,7 +11,7 @@ etc,stc
 
 
 
-# Massimiliano Rubino
+Massimiliano Rubino
 ============
 
 -------------------     ----------------------------
