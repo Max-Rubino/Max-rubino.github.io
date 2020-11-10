@@ -8,21 +8,17 @@ header:
 ---
 
 
-{% include group-by-array.html collection=site.posts field='tags' %}
+Copy the code below and put it on the page where your projects will all be listed.
+In my example video, that page is the "machinelearning.md" file.
 
-<ul>
-  {% for tag in group_names %}
-    {% assign posts = group_items[forloop.index0] %}
 
-    <li>
-      <h2>{{ tag }}</h2>
-      <ul>
-        {% for post in posts %}
-        <li>
-          <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </li>
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
+
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
   {% endfor %}
-</ul>
+{% endfor %}
