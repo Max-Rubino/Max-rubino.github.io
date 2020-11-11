@@ -4,20 +4,19 @@ permalink: /about/
 header:
   image: "/images/milano.jpg"
 ---
-I'm a senior data scientist
+
+I am a statistician specializing in Data Sciences. I am an expert in data wrangling, analytics and machine learning methods.
+I studied statistics at the Bicocca University of Milan for 5 years. One of my goals is to improve every time, to do so I always find the opportunity to learn something new. This is my personal portfolio in which I will share all the projects I have done over the years.
 
 
-etc,stc
-
-
+# CV
 
 Massimiliano Rubino
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+MyTown S             massimrubino96@gmail.com
+MyCountry Italy                          
 -------------------     ----------------------------
 
 ## Education
