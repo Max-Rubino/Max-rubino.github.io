@@ -8,21 +8,20 @@ header:
 I am a statistician specializing in Data Sciences. I am an expert in data wrangling, analytics and machine learning methods.
 I studied statistics at the Bicocca University of Milan for 5 years. One of my goals is to improve every time, to do so I always find the opportunity to learn something new. This is my personal portfolio in which I will share all the projects I have done over the years.
 
--------------------     ----------------------------
-MyTown S             massimrubino96@gmail.com
-MyCountry Italy                          
--------------------     ----------------------------
+
 
 ## Education
 ---------
 
 2018-2020 (expected)
 :   **Master, statistics for data sience**; Università degli Studi di Milano-Bicocca
-    *Thesis title: Assessment of the performance of IRCCs for the purpose of              allocating funding: a multilevel approach.*
+
+    *Thesis title: Assessment of the performance of IRCCs for the purpose of allocating funding: a multilevel approach.*
 
 2015-2018
-:   **Bschelor, Statistic **; Università degli Studi di Milano-Bicocca
-    *Thesis title:Skills required for the sector "Professional, scientific and            technical activities" through the use of web vacancies: A comparison between        Countries *
+:   **Bschelor, Statistic**; Università degli Studi di Milano-Bicocca
+
+    *Thesis title:Skills required for the sector "Professional, scientific and technical activities" through the use of web vacancies: A comparison between        Countries *
 
 
 ## Experience
@@ -64,7 +63,7 @@ Programming Languages
 :   Microsoft package
 
 
-Langueges, interests
+## Langueges, interests
 ----------------------------------------
 
 * Human Languages:
