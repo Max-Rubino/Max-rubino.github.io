@@ -7,7 +7,7 @@ header:
 
 I am a statistician specializing in Data Sciences. I am an expert in data wrangling, analytics and machine learning methods.
 I studied statistics at the Bicocca University of Milan for 5 years. One of my goals is to improve every time, to do so I always find the opportunity to learn something new. This is my personal portfolio in which I will share all the projects I have done over the years.
-
+---------
 
 
 ## Education
@@ -19,9 +19,9 @@ I studied statistics at the Bicocca University of Milan for 5 years. One of my g
     *Thesis title: Assessment of the performance of IRCCs for the purpose of allocating funding: a multilevel approach.*
 
 2015-2018
-:   **Bschelor, Statistic**; Università degli Studi di Milano-Bicocca
+:   **Bachelor, Statistic**; Università degli Studi di Milano-Bicocca
 
-    *Thesis title:Skills required for the sector "Professional, scientific and technical activities" through the use of web vacancies: A comparison between        Countries *
+    *Thesis title:Skills required for the sector "Professional, scientific and technical activities" through the use of web vacancies: A comparison between Countries*
 
 
 ## Experience
